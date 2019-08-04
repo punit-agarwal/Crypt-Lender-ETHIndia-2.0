@@ -2,7 +2,7 @@
 Gets you make, retrieve and view Lendings over voice
 
 ## About Crypt Lender
-<< ADD INFO>>
+Crypt Lender makes lending super easy by utilizing the revolutionizing voice technology and is made on top of google assistant. It replaces the traditional approach for lending and provides users with a hassle-free 2-way communication on the google assistant.
 
 ## Steps for Local Development  
 #### Only for Windows. Steps for Mac and Linux to be added soon.
@@ -32,3 +32,11 @@ In your actions console go to the tab TEST and test the bot using your queries. 
 Add in more features of your choice and send in your pull request.
 
 
+## The problem Crypt Lender solves
+Crypt Lender makes lending super easy by utilizing the revolutionizing voice technology and is made on top of google assistant. It replaces the traditional approach for lending and provides users with a hassle-free 2-way communication on the google assistant. We made this product while keeping all the required decentralization needs in mind and came up with a safe and secure application for our users on which they can trust their money. Also, we don't store the private keys of users on our servers, hence ensuring privacy. We plan on providing a complete voice-based dashboard feature wherein users can get all the statistics and realtime information about various lends and borrows without even moving a finger. We believe that user experience plays a major role in what a product can achieve and how much impact it can have. Voice Technology has no doubt a great potential and can take over the market as a major add-on to current UI.
+
+## Challenges we ran into
+It was a challenging project to work on which came along with a fair share of hurdles in the way. We faced issues while integrating the google assistant application with the blockchain. We used the Lendroid APIs and faced some challenges in understanding and implementing their platform as a base to ours. Lendroid only works with Kovan Testnet and this is something we had to spend quite a lot of time to find out. Also, their kernel-server is written in python and smart contracts in vyper, both of which we are not much familiar with. So, it was a tough time figuring out these small yet challenging things. However, the Lendroid Team was very helpful and guided us along the way in the hackathon. It was hard as well as fun to get a chance to explore the working of Lendroid. The major challenge we encountered was of signing the transactions while providing complete privacy and security to the users. We had to brainstorm for a while and also discussed our ideas with various mentors before coming up with the final product.
+
+## Technologies used
+`nodejs` `Web3JS` `infura` `SmartContract` `Google Assistant` `google text to speech API` `Blockchain using Ethereum` `Google Speech Recognition` `Google cloud platform` `Google Cloud APIs`
