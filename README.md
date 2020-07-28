@@ -1,6 +1,8 @@
 # Crypt-Lender-ETHIndia-2.0
 Gets you make, retrieve and view Lendings over voice
 
+This project was selected as a bounty winner offer by Lendroid.
+
 ## About Crypt Lender
 Crypt Lender makes lending super easy by utilizing the revolutionizing voice technology and is made on top of google assistant. It replaces the traditional approach for lending and provides users with a hassle-free 2-way communication on the google assistant.
 
